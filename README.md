@@ -49,6 +49,6 @@ Mentor Helper is an Engineering Evaluation Platform designed to manage and evalu
 
 ## Usage
 
-- Access the platform at `http://mentor-helper.netlify.app`. Due to login callbacks, the project cannot be used locally.
+- Access the platform locally or hosted at `http://mentor-helper.netlify.app`. 
 - Sign in using Google OAuth to access the evaluation dashboard.
 - Navigate through profiles, employees, and evaluation tabs to manage and evaluate engineering competencies.
